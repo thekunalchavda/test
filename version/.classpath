@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_291"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/client-combined-3.141.59.jar" sourcepath="D:/automation/asdf/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/joda-time-2.10.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/ashot-1.5.4.jar"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/commons-io-2.8.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/new/eclipse-workspace/version/jars/sqljdbc4-4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
